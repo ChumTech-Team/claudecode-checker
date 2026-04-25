@@ -1,0 +1,140 @@
+{
+  "shanraisshan/claude-code-best-practice": {
+    "last_sha": "cfb33c9fce753433bc052c015d616eaa9a37d4a8",
+    "last_date": "2026-03-28T17:46:10Z",
+    "last_message": "update reports to v2.1.86 — command arguments, teammateMode move, Chrome badge + workflow star/skill updates",
+    "checked_at": "2026-03-29T13:42:19Z"
+  },
+  "FlorianBruniaux/claude-code-ultimate-guide": {
+    "last_sha": "146848ca3c0662bacf6fa88bf1de652b58dd7f4a",
+    "last_date": "2026-03-27T22:24:50Z",
+    "last_message": "docs(security): update threat-db v2.10.0 — MCPwnfluence chain, ClawHub ranking exploit, Cisco DefenseClaw",
+    "checked_at": "2026-03-29T13:42:19Z"
+  },
+  "affaan-m/everything-claude-code": {
+    "last_sha": "527c79350c2162c60c7dd1ce357a925fc7c800a8",
+    "last_date": "2026-03-29T04:26:32Z",
+    "last_message": "Merge pull request #1000 from affaan-m/fix/codex-context7-compat-tests",
+    "checked_at": "2026-03-29T13:42:20Z"
+  },
+  "anthropics/claude-code-action": {
+    "last_sha": "88c168b39e7e64da0286d812b6e9fbebb6708185",
+    "last_date": "2026-03-29T02:29:10Z",
+    "last_message": "chore: bump Claude Code to 2.1.87 and Agent SDK to 0.2.87",
+    "checked_at": "2026-03-29T13:42:21Z"
+  },
+  "anthropics/claude-code-monitoring-guide": {
+    "last_sha": "02777441f2a3fa38a187b57872ca9dc5e0411b48",
+    "last_date": "2025-07-29T05:21:12Z",
+    "last_message": "Import Claude Code monitoring guide from katchu11/claude-code-guide",
+    "checked_at": "2026-03-29T13:42:21Z"
+  },
+  "anthropics/claude-agent-sdk-python": {
+    "last_sha": "566e41f7a59377885693082d0e8436d8964a0491",
+    "last_date": "2026-03-29T02:41:21Z",
+    "last_message": "docs: update changelog for v0.1.52",
+    "checked_at": "2026-03-29T13:42:22Z"
+  },
+  "anthropics/claude-agent-sdk-demos": {
+    "last_sha": "826b268506a5f3707623c9e6140b200befcbebae",
+    "last_date": "2026-03-13T17:15:43Z",
+    "last_message": "Merge pull request #58 from sarahdeaton/ask-user-question-preview",
+    "checked_at": "2026-03-29T13:42:22Z"
+  },
+  "anthropics/skills": {
+    "last_sha": "98669c11ca63e9c81c11501e1437e5c47b556621",
+    "last_date": "2026-03-25T15:10:46Z",
+    "last_message": "chore: update claude-api skill [auto-sync] (#730)",
+    "checked_at": "2026-03-29T13:42:23Z"
+  },
+  "anthropics/claude-cookbooks": {
+    "last_sha": "44f96bff8aec6849e929e5a074e2dda97d1389ba",
+    "last_date": "2026-03-27T20:02:55Z",
+    "last_message": "Merge pull request #463 from anthropics/montana/knowledge-graph-cookbook",
+    "checked_at": "2026-03-29T13:42:23Z"
+  },
+  "anthropics/claude-quickstarts": {
+    "last_sha": "4b2549e8093a6dee1c394bdd8fcf83cb914a271a",
+    "last_date": "2026-02-05T20:47:08Z",
+    "last_message": "Update computer-use-demo to use text_editor_20250728 exclusively with correct insert_text parameter (#352)",
+    "checked_at": "2026-03-29T13:42:24Z"
+  },
+  "anthropics/courses": {
+    "last_sha": "f4dbb137d7b02dddaf3cc73e32e20a702d3b5e77",
+    "last_date": "2025-11-13T20:40:50Z",
+    "last_message": "Merge pull request #45 from emmanuel-ferdman/master",
+    "checked_at": "2026-03-29T13:42:24Z"
+  },
+  "trailofbits/claude-code-config": {
+    "last_sha": "7db11a2803d304d294ebace78c0687e701385947",
+    "last_date": "2026-02-25T17:50:21Z",
+    "last_message": "Merge pull request #31 from Haikane/fix-stop-hook-prompt-v2",
+    "checked_at": "2026-03-29T13:42:25Z"
+  },
+  "trailofbits/claude-code-devcontainer": {
+    "last_sha": "40ca54d41060db20b0b5d7befd36f731b1e61268",
+    "last_date": "2026-03-23T08:18:56Z",
+    "last_message": "Update versions in Dockerfile (#34)",
+    "checked_at": "2026-03-29T13:42:25Z"
+  },
+  "trailofbits/skills": {
+    "last_sha": "4b9a4e90870ddfdbe24c34a22606ac0d1a62052a",
+    "last_date": "2026-03-27T10:38:32Z",
+    "last_message": "docs(aflpp): add opinionated environment variables guide (#130)",
+    "checked_at": "2026-03-29T13:42:26Z"
+  },
+  "modelcontextprotocol/servers": {
+    "last_sha": "f4244583a6af9425633e433a3eec000d23f4e011",
+    "last_date": "2026-03-17T14:21:11Z",
+    "last_message": "fix(fetch): refresh uv lockfile (#3598)",
+    "checked_at": "2026-03-29T13:42:26Z"
+  },
+  "disler/claude-code-hooks-mastery": {
+    "last_sha": "052ad1cbd5aeb1ec4a1def22012d1293c6225625",
+    "last_date": "2026-02-01T23:15:48Z",
+    "last_message": "Add TOC to README",
+    "checked_at": "2026-03-29T13:42:27Z"
+  },
+  "karanb192/claude-code-hooks": {
+    "last_sha": "ebcc2a254b752e2620bcfe911e7dd3517060ac7b",
+    "last_date": "2026-01-26T13:37:48Z",
+    "last_message": "Merge pull request #2 from karanb192/fix-image-alignment",
+    "checked_at": "2026-03-29T13:42:28Z"
+  },
+  "bmad-code-org/BMAD-METHOD": {
+    "last_sha": "ce9c66490ae9b104788010414d94485c614e87dd",
+    "last_date": "2026-03-29T06:22:34Z",
+    "last_message": "refactor(party-mode): consolidate into single SKILL.md with real subagents (#2160)",
+    "checked_at": "2026-03-29T13:42:28Z"
+  },
+  "wilwaldon/claude-code-cheat-sheet": {
+    "last_sha": "ff8764f4e2783c4068e5afb74a1f491edcb287df",
+    "last_date": "2026-03-24T15:36:53Z",
+    "last_message": "Update README.md",
+    "checked_at": "2026-03-29T13:42:29Z"
+  },
+  "ryoppippi/ccusage": {
+    "last_sha": "61ee04dcc9c24c1e3720ea20b6d754c7a0d1bdb4",
+    "last_date": "2026-03-28T19:44:09Z",
+    "last_message": "chore: upgrade vitest to v4.1 and add workspace config with GitHub integration (#911)",
+    "checked_at": "2026-03-29T13:42:30Z"
+  },
+  "carlosarraes/ccost": {
+    "last_sha": "d2149d94f72cab3370b723a863c71bdb6e50d9d2",
+    "last_date": "2025-06-21T15:11:22Z",
+    "last_message": "gitignore: prevent committing repomix output files",
+    "checked_at": "2026-03-29T13:42:30Z"
+  },
+  "FlorianBruniaux/ccboard": {
+    "last_sha": "d9e596f13d91d0fd630eea4d5bfac7808a818b13",
+    "last_date": "2026-03-28T17:31:30Z",
+    "last_message": "docs: v0.20.0 — README + CHANGELOG for MF1/MF3/MF8/MF9",
+    "checked_at": "2026-03-29T13:42:31Z"
+  },
+  "ColeMurray/claude-code-otel": {
+    "last_sha": "43263654a369c28e01733fe71f0204084f08eec3",
+    "last_date": "2025-06-17T03:01:16Z",
+    "last_message": "Fix dashboard panel grouping: move performance/error panels to correct section - Moved API Request Duration and API Erro",
+    "checked_at": "2026-03-29T13:42:31Z"
+  }
+}

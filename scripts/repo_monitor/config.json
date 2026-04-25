@@ -1,0 +1,202 @@
+{
+  "description": "監視対象GitHubリポジトリと影響先教材のマッピング",
+  "repos": [
+    {
+      "repo": "shanraisshan/claude-code-best-practice",
+      "priority": "high",
+      "affects": [
+        "01_基礎と設定.md",
+        "02_コンテキストエンジニアリング.md",
+        "03_コア機能.md",
+        "04_拡張機能.md",
+        "05_自動化と並列実行.md",
+        "06_ワークフローと方法論.md",
+        "07_業務別活用.md",
+        "reference/ecosystem_tools.md"
+      ]
+    },
+    {
+      "repo": "FlorianBruniaux/claude-code-ultimate-guide",
+      "priority": "high",
+      "affects": [
+        "01_基礎と設定.md",
+        "02_コンテキストエンジニアリング.md",
+        "06_ワークフローと方法論.md",
+        "08_セキュリティ.md",
+        "09_コストと運用.md",
+        "reference/ecosystem_tools.md"
+      ]
+    },
+    {
+      "repo": "affaan-m/everything-claude-code",
+      "priority": "high",
+      "affects": [
+        "01_基礎と設定.md",
+        "02_コンテキストエンジニアリング.md",
+        "04_拡張機能.md",
+        "05_自動化と並列実行.md",
+        "06_ワークフローと方法論.md",
+        "08_セキュリティ.md"
+      ]
+    },
+    {
+      "repo": "anthropics/claude-code-action",
+      "priority": "medium",
+      "affects": [
+        "05_自動化と並列実行.md",
+        "reference/ecosystem_tools.md"
+      ]
+    },
+    {
+      "repo": "anthropics/claude-code-monitoring-guide",
+      "priority": "medium",
+      "affects": [
+        "09_コストと運用.md",
+        "reference/ecosystem_tools.md"
+      ]
+    },
+    {
+      "repo": "anthropics/claude-agent-sdk-python",
+      "priority": "medium",
+      "affects": [
+        "05_自動化と並列実行.md",
+        "reference/ecosystem_tools.md"
+      ]
+    },
+    {
+      "repo": "anthropics/claude-agent-sdk-demos",
+      "priority": "medium",
+      "affects": [
+        "05_自動化と並列実行.md",
+        "reference/ecosystem_tools.md"
+      ]
+    },
+    {
+      "repo": "anthropics/skills",
+      "priority": "medium",
+      "affects": [
+        "03_コア機能.md",
+        "07_業務別活用.md",
+        "reference/ecosystem_tools.md"
+      ]
+    },
+    {
+      "repo": "anthropics/claude-cookbooks",
+      "priority": "low",
+      "affects": [
+        "09_コストと運用.md",
+        "reference/ecosystem_tools.md"
+      ]
+    },
+    {
+      "repo": "anthropics/claude-quickstarts",
+      "priority": "low",
+      "affects": [
+        "09_コストと運用.md",
+        "reference/ecosystem_tools.md"
+      ]
+    },
+    {
+      "repo": "anthropics/courses",
+      "priority": "low",
+      "affects": [
+        "09_コストと運用.md",
+        "reference/ecosystem_tools.md"
+      ]
+    },
+    {
+      "repo": "trailofbits/claude-code-config",
+      "priority": "medium",
+      "affects": [
+        "04_拡張機能.md",
+        "06_ワークフローと方法論.md",
+        "08_セキュリティ.md"
+      ]
+    },
+    {
+      "repo": "trailofbits/claude-code-devcontainer",
+      "priority": "low",
+      "affects": [
+        "04_拡張機能.md"
+      ]
+    },
+    {
+      "repo": "trailofbits/skills",
+      "priority": "low",
+      "affects": [
+        "04_拡張機能.md"
+      ]
+    },
+    {
+      "repo": "modelcontextprotocol/servers",
+      "priority": "medium",
+      "affects": [
+        "04_拡張機能.md",
+        "reference/mcp_catalog.md"
+      ]
+    },
+    {
+      "repo": "disler/claude-code-hooks-mastery",
+      "priority": "low",
+      "affects": [
+        "04_拡張機能.md",
+        "reference/hook_patterns.md"
+      ]
+    },
+    {
+      "repo": "karanb192/claude-code-hooks",
+      "priority": "low",
+      "affects": [
+        "04_拡張機能.md",
+        "reference/hook_patterns.md"
+      ]
+    },
+    {
+      "repo": "bmad-code-org/BMAD-METHOD",
+      "priority": "low",
+      "affects": [
+        "06_ワークフローと方法論.md"
+      ]
+    },
+    {
+      "repo": "wilwaldon/claude-code-cheat-sheet",
+      "priority": "low",
+      "affects": [
+        "03_コア機能.md",
+        "reference/cli_cheatsheet.md"
+      ]
+    },
+    {
+      "repo": "ryoppippi/ccusage",
+      "priority": "low",
+      "affects": [
+        "09_コストと運用.md",
+        "reference/ecosystem_tools.md"
+      ]
+    },
+    {
+      "repo": "carlosarraes/ccost",
+      "priority": "low",
+      "affects": [
+        "09_コストと運用.md",
+        "reference/ecosystem_tools.md"
+      ]
+    },
+    {
+      "repo": "FlorianBruniaux/ccboard",
+      "priority": "low",
+      "affects": [
+        "09_コストと運用.md",
+        "reference/ecosystem_tools.md"
+      ]
+    },
+    {
+      "repo": "ColeMurray/claude-code-otel",
+      "priority": "low",
+      "affects": [
+        "09_コストと運用.md",
+        "reference/ecosystem_tools.md"
+      ]
+    }
+  ]
+}
